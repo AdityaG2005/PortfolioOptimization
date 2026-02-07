@@ -41,6 +41,7 @@ It analyzes multiple assets by computing returns, volatility, covariance, and ov
 
 ## 📁 Project Structure
 PortfolioOptimization.ipynb    # Main analysis notebook
+
 README.md                      # Project documentation
 
 
